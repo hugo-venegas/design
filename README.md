@@ -1,4 +1,4 @@
-# design
+# Design
 
 Nombr: Hugo Venegas
 
