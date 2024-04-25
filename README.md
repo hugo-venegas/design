@@ -2,4 +2,4 @@
 
 # Nombre: Hugo Venegas
 
-Ete proyecto es para ver avance en enyoi
+Este proyecto es para ver el avance en enyoi.
